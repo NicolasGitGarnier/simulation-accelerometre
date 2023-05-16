@@ -64,11 +64,15 @@ Avec un passage de vitesse entre 2 et 3 secondes et la vitesse de 50 km/h attein
 
 ![img_2.png](img/80.png)
 
-Cette courbe est moins facile à analyser. En effet, on remarque une deceleration à partir de 11 secondes où la vitesse de 80 km/h est atteinte, les frottements induisent ce début de chute de vitesse.
-Nous voyons aussi un passage de vitesse à 8 seconde.
+Cette courbe est moins facile à analyser. En effet, on remarque une décélération à partir de 11 secondes où la vitesse de 80 km/h est atteinte, les frottements induisent ce début de chute de vitesse.
+Nous voyons aussi un passage de vitesse à 8 secondes.
 
 #### Analyse
 
-Grâce aux données d'accélération mesurée, nous avons réussi à déterminer une vitesse et une distance.
-Elle nous permet de pouvoir analyser des changements d'environnement qui affectent directement la vitesse.
+Grâce aux données d'accélération mesurée, nous avons réussi à en déterminer une vitesse et une distance correspondante. L'on remarque également qu'avec les trois mesures (pour la voiture) les passages de vitesses se font au même moment, tout comme les décélérations due aux changements de vitesses.
+Ces mesures et variations nous permettent de déduire les changements d'environnements de l'objet en mouvement (ascenseur ou voiture). L'usage d'accéléromètre est massivement utiliser dans quasi toutes les études de mouvements d'objets, par exemple les navettes spaciales.
+
+Cependant notre précision n'est bien évidemment pas la même puisque les mesures ont été faites via un smartphone. Ainsi les résultats sont soumis à un taux d'erreur plus ou moins grand lié aux conditions d'enregistrement. Mais, au vue de nos résultats, l'éerreur (si elle existe) est très petite.
 Nous pouvons donc penser à des utilisations pour prédire ou prévenir de problèmes potentiels lors que l'utilisation d'un objet tel qu'une voiture par exemple.
+
+
